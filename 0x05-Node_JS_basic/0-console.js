@@ -1,6 +1,6 @@
 #!/usr/bin/node
 /**
- * name of function: displayMessage
+ * function name: displayMessage
  * prints string name
 */
 
